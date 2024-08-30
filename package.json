@@ -1,0 +1,16 @@
+{
+  "name": "provably-fair-algorithm",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "repository": "https://github.com/imriyaya/Provably-Fair-Algorithm.git",
+  "author": "riya <ramune.remonedo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^22.5.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
